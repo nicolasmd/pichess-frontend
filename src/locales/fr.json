@@ -1,0 +1,21 @@
+{
+    "login_title": "Connexion",
+    "please_enter_username": "Veuillez entrer vos identifiants.",
+    "bad_credentials": "Identifiants invalides",
+    "email_address": "Adresse email",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmation du mot de passe",
+    "not_a_member": "Pas encore membre ?",
+    "register": "S'inscrire",
+    "sign_in": "Se connecter",
+    "sign_up": "Créer le compte",
+    "sign_up_title": "Créer un compte",
+    "full_name": "Pseudo",
+    "already_registered": "Déja inscrit ?",
+    "login": "Se connecter",
+    "please_fill_in": "Veuillez compléter tous les champs",
+    "passwords_do_not_match": "Les mots de passe ne correspondent pas",
+    "logout": "Déconnexion",
+    "welcome": "Bienvenue",
+    "new_game": "Nouvelle partie"
+  }

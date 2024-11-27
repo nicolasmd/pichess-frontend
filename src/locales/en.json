@@ -1,0 +1,21 @@
+{
+    "login_title": "Login Page",
+    "please_enter_username": "Please enter both username and password.",
+    "bad_credentials": "Bad credentials",
+    "email_address": "Email address",
+    "password": "Passsword",
+    "confirm_password": "Password confirmation",
+    "not_a_member": "Not a member?",
+    "register": "Register",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "sign_up_title": "Sign up",
+    "full_name": "Full name",
+    "already_registered": "Already Registered?",
+    "login": "Login",
+    "please_fill_in": "Please fill in all fields.",
+    "passwords_do_not_match": "Passwords do not match",
+    "logout": "Logout",
+    "welcome": "Welcome",
+    "new_game": "New game"
+  }
